@@ -1,0 +1,2 @@
+# okokvpn
+okokvpn基于shadowsocksr技术的翻墙软件
