@@ -1,2 +1,4 @@
 # okokvpn
 okokvpn基于shadowsocksr技术的翻墙软件
+pc版本请下载压缩包
+app安卓版本请下载apk文件
